@@ -3,3 +3,7 @@ From ubuntuOS
 
 
 
+ls -ltr
+
+
+
